@@ -1,6 +1,6 @@
 # Digital Tools for Activism
 
-![digital tools for activism](toolsforactivism/15014060863_919c6522ef_z.jpg "digital tools for activism")
+![digital tools for activism](https://github.com/mozilla/toolsforactivism/15014060863_919c6522ef_z.jpg "digital tools for activism")
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
