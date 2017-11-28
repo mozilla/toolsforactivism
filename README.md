@@ -38,6 +38,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Nation Builder](https://nationbuilder.com/) - A hosted solution for petitions, campaigns and emails.
+ * [New Mode](https://www.newmode.net) - Embeddable tools that allow supporters to contact officials and other public figures via email, phone, fax and twitter.
 
 ## Projects to keep an eye on (ie projects in development)
 
